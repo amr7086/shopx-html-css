@@ -1,0 +1,41 @@
+
+.new-span {
+  width: 35px;
+  height: 35px;
+  background-color: #8ed1b7;
+  color: #fff;
+  position: absolute;
+  left: 0px;
+  top: 110px;
+  display: flex;
+  z-index: 5;
+  text-transform: uppercase;
+  font-size: 12px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.hot-span {
+  width: 35px;
+  height: 35px;
+  background-color: #e7a8c6;
+  color: #fff;
+  position: absolute;
+  left: 0;
+  top: 110px;
+  display: flex;
+  z-index: 5;
+  font-size: 12px;
+  text-transform: uppercase;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
